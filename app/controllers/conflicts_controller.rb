@@ -1,4 +1,5 @@
 class ConflictsController < ApplicationController
+
   def my_version_works_more_efficiently
   end
 
